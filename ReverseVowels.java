@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CheckVowels{
+class ReverseVowels{
     
 	public static String reverse(String s) {
 		
